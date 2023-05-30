@@ -2,7 +2,7 @@
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
 # 💫 About Me:
-👋 Hi, I'm Atishay Jain, a final-year CSE student at LNMIIT. I am passionate about leveraging my skills in technology to solve real-world challenges.<br>🛠️ My technical skills include HTML, CSS, Javascript and ReactJS. I am also well versed in Node.js,Express and Mongodb. I am always eager to explore new tools and technologies that can help me deliver better results in my projects.<br><br>
+👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>🛠️ My technical skills include HTML, CSS, Javascript and ReactJS. I am also well versed in Node.js,Express and Mongodb. I am always eager to explore new tools and technologies that can help me deliver better results in my projects.<br><br>
 🔭 I’m currently working on making full-stack web applications.<br>👨‍💻 All of my projects are available at https://github.com/Atigit15?tab=repositories<br> 📫 How to reach me: atishayjn999@gmail.com <br> 🌐 Personal Website: https://www.linkedin.com/in/atishayjain15/<br><br>
 📈 Some of my notable projects include:<br>
 
