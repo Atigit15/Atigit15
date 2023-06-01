@@ -22,6 +22,17 @@
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Atigit15&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Atigit15&theme=monokai&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atigit15&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Atigit15&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- > Check Commits below, GitHub stats are sometimes inaccurate due to caching. -->
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Atishay70433479&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 ### Thanks for Visiting my GitHub Profile!
 
 ---
