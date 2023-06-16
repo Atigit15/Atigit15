@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>
-🔭 I’m currently working on making full-stack web applications.<br>👨‍💻 All of my projects are available at https://github.com/Atigit15?tab=repositories<br> 📫 How to reach me: atishayjn999@gmail.com <br> 🌐 Connect with me: https://www.linkedin.com/in/atishayjain15/<br><br>
+🔭 I’m currently working on making full-stack web applications.<br>👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 📫 How to reach me: atishayjn999@gmail.com <br> 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/atishayjain15/)<br><br>
 📈 Some of my notable projects include:<br>
 - [Quirk Chat](https://quirk-chat.netlify.app/) 
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
