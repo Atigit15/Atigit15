@@ -2,9 +2,12 @@
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
 # 💫 About Me:
-👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>🛠️ My technical skills include HTML, CSS, Javascript and ReactJS. I am also well versed in Node.js,Express and Mongodb. I am always eager to explore new tools and technologies that can help me deliver better results in my projects.<br><br>
+👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>
 🔭 I’m currently working on making full-stack web applications.<br>👨‍💻 All of my projects are available at https://github.com/Atigit15?tab=repositories<br> 📫 How to reach me: atishayjn999@gmail.com <br> 🌐 Connect with me: https://www.linkedin.com/in/atishayjain15/<br><br>
 📈 Some of my notable projects include:<br>
+- [Quirk Chat](https://quirk-chat.netlify.app/) 
+- [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
+- [Meme-ory Game](https://meme-ory-game.netlify.app/)
 
 <!-- <br>Financial Data Scraper: Efficiently extracting and analyzing financial data.<br>Apple Stock Data Analysis: Investigating trends and insights in stock data.<br>Crop Prediction ML Model: Employing machine learning algorithms for crop yield prediction.<br>Online Grocery Store: Developing a seamless and user-friendly e-commerce platform.<br>Personal Portfolio Website: Showcasing my skills, experience, and achievements.<br><br>🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out! -->
 
