@@ -37,9 +37,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Atigit15&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atigit15&theme=monokai&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atigit15&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atigit15&theme=radical" alt="atigit15" style="margin:0.5rem"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-kappa-red-96.vercel.app/api/top-langs?username=atigit15&show_icons=true&theme=radical&locale=en&layout=compact" alt="atigit15" style="margin:5 rem"/>
+<!-- <img src="https://github-readme-stats-kappa-red-96.vercel.app/api?username=shreyparikh1002&show_icons=true&theme=radical&locale=en" alt="shreyparikh1002" align="center" style="margin:0.5rem"/> -->
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Atigit15&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- > Check Commits below, GitHub stats are sometimes inaccurate due to caching. -->
@@ -56,5 +60,4 @@
 
 
 ---
-<!-- Credids to : Guarang105 for this README file -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
