@@ -9,8 +9,6 @@
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
 - [Meme-ory Game](https://meme-ory-game.netlify.app/)
 
-<!-- <br>Financial Data Scraper: Efficiently extracting and analyzing financial data.<br>Apple Stock Data Analysis: Investigating trends and insights in stock data.<br>Crop Prediction ML Model: Employing machine learning algorithms for crop yield prediction.<br>Online Grocery Store: Developing a seamless and user-friendly e-commerce platform.<br>Personal Portfolio Website: Showcasing my skills, experience, and achievements.<br><br>🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out! -->
-
 # 🌐 Socials:
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atishayjain15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atishayjain15" height="30" width="40" /></a>
