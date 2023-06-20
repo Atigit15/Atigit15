@@ -9,7 +9,7 @@
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/atishayjain15/)<br>
-📃 Check out my [Resume](https://drive.google.com/file/d/1DdaXlj5t1I390QQUn1y30eARWTREhXUj/view?usp=drive_link) for more details. I am open for feedbacks and suggestions.<br><br>
+📃 Check out my [Resume]() for more details. I am open for feedbacks and suggestions.<br><br>
 📈 Some of my notable projects include:<br>
 - [Quirk Chat](https://quirk-chat.netlify.app/) 
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
