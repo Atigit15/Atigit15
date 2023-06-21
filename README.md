@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
-# 💫 About Me:
+# 💫 About Me
 👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>
 🎓 I'm currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
 🔭 I’m currently working on making my porfolio website.<br>
