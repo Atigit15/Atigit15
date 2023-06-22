@@ -2,9 +2,9 @@
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
 # 💫 About Me
-👋 I am passionate about leveraging my skills in technology to solve real-world challenges.<br>
-🎓 I'm currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
-🔭 I’m currently working on making my porfolio website.<br>
+👋 I am a full stack web developer who specialise in building apps web through the MERN stack.<br>
+🎓 I'm a budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
+🔭 I’m currently working on making a Expense-Tracker web app.<br>
 🔰 I'm currently learning Backend Developemnt with Node and Express<br>
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
