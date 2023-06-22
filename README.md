@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
 # 💫 About Me
