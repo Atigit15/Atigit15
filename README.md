@@ -1,7 +1,7 @@
 ![Header](./header.png)
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
-# 💫 About Me
+# 💫 About M
 👋 I am a full stack web developer who specialises in building web apps through the MERN stack.<br>
 🎓 I'm a budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
 🔭 I’m currently working on making a Expense-Tracker web app.<br>
