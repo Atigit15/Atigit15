@@ -1,10 +1,10 @@
 ![Header](./header.png)
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
-# 💫 About M
+# 💫 About Me
 👋 I am a full stack web developer who specialises in building web apps through the MERN stack.<br>
-🎓 I'm a budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
-🔭 I’m currently working on making a Expense-Tracker web app.<br>
+🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
+🔭 I’m currently working on making a Job searching portal.<br>
 🔰 I'm currently learning Backend Developemnt with Node and Express<br>
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
