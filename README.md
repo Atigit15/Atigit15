@@ -16,7 +16,7 @@
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
 - [Meme-ory Game](https://meme-ory-game.netlify.app/)
 
-# 🌐 Socials:
+# 🌐 Socials
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atishayjain15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atishayjain15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atishayjn15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atishayjn15" height="30" width="40" /></a>
