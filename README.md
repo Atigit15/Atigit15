@@ -42,6 +42,10 @@
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# ✒️ Medium Articles
+- [The Backend Development Primer [Part 1/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-1-2-43a115dde891)
+- [The Backend Development Primer [Part 2/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-2-2-7f9f19fbc1d0)
+
 # 📊 GitHub Stats:
 
 <p align="center">
