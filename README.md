@@ -11,10 +11,17 @@
 👨🏻‍💻Check out my personal website : [its-atishay.com](https://its-atishay.vercel.app/)<br>
 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/atishayjain15/)<br>
 📃 Check out my [Resume]() for more details. I am open for feedbacks and suggestions.<br><br>
-📈 Some of my notable projects include:<br>
+
+📈 Some of my notable projects :<br>
 - [Quirk Chat](https://quirk-chat.netlify.app/) 
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
 - [Meme-ory Game](https://meme-ory-game.netlify.app/)
+  
+<br>
+
+✒️ Some of my recent technical blogs: <br>
+- [The Backend Development Primer [Part 1/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-1-2-43a115dde891)
+- [The Backend Development Primer [Part 2/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-2-2-7f9f19fbc1d0)
 
 # 🌐 Socials
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
@@ -42,9 +49,6 @@
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# ✒️ Medium Articles
-- [The Backend Development Primer [Part 1/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-1-2-43a115dde891)
-- [The Backend Development Primer [Part 2/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-2-2-7f9f19fbc1d0)
 
 # 📊 GitHub Stats:
 
@@ -57,9 +61,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Atigit15&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- > Check Commits below, GitHub stats are sometimes inaccurate due to caching. -->
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Atishay70433479&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### Thanks for Visiting my GitHub Profile!
 
