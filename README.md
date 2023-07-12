@@ -6,6 +6,7 @@
 🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
 🔭 I’m currently working on making a Job searching portal.<br>
 🔰 I'm currently learning about Authorisation and Security in web apps<br>
+✒️ I am a technical writer, I write on medium, hashnode and dev community.<br>
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
 👨🏻‍💻Check out my personal website : [its-atishay.com](https://its-atishay.vercel.app/)<br>
@@ -27,8 +28,10 @@
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atishayjain15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atishayjain15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atishayjn15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atishayjn15" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/SkillRexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atishayjn15" height="30" width="40" /></a>
 <a href="https://dev.to/atishay_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atishay_jain" height="30" width="40" /></a>
 <a href="https://medium.com/@atishayjn999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atishay_jain" height="30" width="40" /></a>
+<a href="https://hashnode.com/@AtishayJain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="atishay_jain" height="30" width="40" /></a>
 <a href="https://linktr.ee/atishay_jain" target="blank"><img align="center" src="./linktree.webp" alt="atishay_jain" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
