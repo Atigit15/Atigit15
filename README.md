@@ -2,18 +2,18 @@
 <!-- <img src="https://www.lambdatest.com/resources/images/news24.gif" width="1000" height="380"> -->
 
 # 💫 About Me
-👋 I am a full stack web developer who specialises in building web apps through the MERN stack.<br>
+👋 I am a full-stack web developer who specializes in building web apps through the MERN stack.<br>
 🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
-🔭 I’m currently working on making a Job searching portal.<br>
+🔭 I’m currently working on making a GoalSetter App.<br>
 🔰 I'm currently learning about Authorisation and Security in web apps<br>
-✒️ I am a technical writer, I write on medium, hashnode and dev community.<br>
+✒️ I am a technical writer, I write on Medium, Hashcode, and the dev community.<br>
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
 👨🏻‍💻Check out my personal website : [its-atishay.com](https://its-atishay.vercel.app/)<br>
 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/atishayjain15/)<br>
-📃 Check out my [Resume]() for more details. I am open for feedbacks and suggestions.<br><br>
+📃 Check out my [Resume]() for more details. I am open to feedback and suggestions.<br><br>
 
-📈 Some of my notable projects :<br>
+📈 Some of my notable projects:<br>
 - [Quirk Chat](https://quirk-chat.netlify.app/) 
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
 - [Meme-ory Game](https://meme-ory-game.netlify.app/)
