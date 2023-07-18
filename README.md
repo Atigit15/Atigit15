@@ -23,6 +23,7 @@
 ✒️ Some of my recent technical blogs: <br>
 - [The Backend Development Primer [Part 1/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-1-2-43a115dde891)
 - [The Backend Development Primer [Part 2/2]](https://medium.com/@atishayjn999/the-backend-development-primer-part-2-2-7f9f19fbc1d0)
+- [What happens when you enter a URL into your Browser](https://medium.com/@atishayjn999/what-exactly-happens-when-you-enter-a-url-into-your-browser-2a47297833ca)
 
 # 🌐 Socials
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
