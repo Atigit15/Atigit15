@@ -14,7 +14,8 @@
 📃 Check out my [Resume]() for more details. I am open to feedback and suggestions.<br><br>
 
 📈 Some of my notable projects:<br>
-- [Quirk Chat](https://quirk-chat.netlify.app/) 
+- [Quirk Chat](https://quirk-chat.netlify.app/)
+- [Goal-Setter](https://github.com/Atigit15/GoalSetter)
 - [SneakerLand-LandingPage](https://atigit15.github.io/SneakerLand-LandingPage)
 - [Meme-ory Game](https://meme-ory-game.netlify.app/)
   
