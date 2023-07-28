@@ -11,7 +11,7 @@
 📫 Contact me : atishayjn999@gmail.com <br> 
 👨🏻‍💻Check out my personal website : [its-atishay.com](https://its-atishay.vercel.app/)<br>
 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/atishayjain15/)<br>
-📃 Check out my [Resume]() for more details. I am open to feedback and suggestions.<br><br>
+📃 Check out my [Resume](https://drive.google.com/file/d/1yNSGDPYP12yOQHidH2FAREAsPkR9JHtd/view?usp=sharing) for more details. I am open to feedback and suggestions.<br><br>
 
 📈 Some of my notable projects:<br>
 - [Quirk Chat](https://quirk-chat.netlify.app/)
