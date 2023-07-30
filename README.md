@@ -4,8 +4,6 @@
 # 💫 About Me
 👋 I am a full-stack web developer who specializes in building web apps through the MERN stack.<br>
 🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.<br>
-🔭 I’m currently working on making a GoalSetter App.<br>
-🔰 I'm currently learning about Authorisation and Security in web apps<br>
 ✒️ I am a technical writer, I write on Medium, Hashcode, and the dev community.<br>
 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Atigit15?tab=repositories)<br> 
 📫 Contact me : atishayjn999@gmail.com <br> 
