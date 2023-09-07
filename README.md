@@ -29,7 +29,7 @@
 <br>
 
 Other:
-- [Interview Preparation Resources](https://github.com/Atigit15/Interview-Prep/tree/main/DSA)
+- [Interview Preparation Resources](https://github.com/Atigit15/Interview-Prep)
 - [DSA Preparation](https://github.com/Atigit15/Interview-Prep/tree/main/DSA)
 - [C++ Templates](https://github.com/Atigit15/CP_Templates)
 
