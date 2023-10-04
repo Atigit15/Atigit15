@@ -29,8 +29,8 @@
 <br>
 
 Other:
-- [Interview Preparation Resources](https://github.com/Atigit15/Interview-Prep)
-- [DSA Preparation](https://github.com/Atigit15/Data-Structures-and-Algorithms)
+- [Interview Preparation Resources](https://atigit15.github.io/Interview-Prep/)
+- [DSA Preparation](https://atigit15.github.io/Data-Structures-and-Algorithms)
 
 # 🌐 Socials
 <a href="https://twitter.com/atishay70433479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atishay70433479" height="30" width="40" /></a>
